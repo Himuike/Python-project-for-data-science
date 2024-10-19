@@ -1,6 +1,6 @@
-# glowing-octo-pancake
 
-<img src="https://user-images.githubusercontent.com/84391594/152703941-8c1b3e93-7358-4274-8c7d-b152d3132814.png" alt="Header"/> 
+
+<img src=""/> https://media.istockphoto.com/id/973474408/photo/ibm-corporate-building-and-logo.jpg?s=1024x1024&w=is&k=20&c=SK21XyCh3PQoe3fZW9J87UZehkP_hsKV8YSysro88k8="/> 
  
 # Python-Project-for-Data-Science---IBM-Data-Science
 
@@ -40,11 +40,11 @@ This course is intended to demonstrate foundational Python skills for working wi
 
 ## 📑 Main Topics 
 
-- [Extracting Stock Data Using a Python Library](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/2%20Extracting%20Stock%20Data%20Using%20a%20Python%20Library.ipynb)
+- [Extracting Stock Data Using a Python Library](https://github.com/Himuike/glowing-octo-pancake/blob/main/Extracting%20Stock%20Data%20Using%20a%20Python%20Library.ipynb)
 
-- [Extracting Stock Data Using a Web Scraping](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/2%20Extracting%20Stock%20Data%20Using%20a%20Python%20Library.ipynb)
+- [Extracting Stock Data Using a Web Scraping](https://github.com/Himuike/glowing-octo-pancake/blob/main/Extracting%20Stock%20Data%20Using%20a%20Web%20Scraping.ipynb)
 
-- [ Final Project - Extracting and Visualizing Stock Data](https://github.com/PramodRawat157/Python-Project-for-Data-Science---IBM-Data-Science/blob/main/4%20Final%20Assignment%20-%20Extracting%20and%20Visualizing%20Stock%20Data.ipynb)
+- [ Final Project - Extracting and Visualizing Stock Data](https://github.com/Himuike/glowing-octo-pancake/blob/main/Final%20Assignment%20-%20Extracting%20and%20Visualizing%20Stock%20Data.ipynb)
 
 
 
