@@ -1,7 +1,6 @@
 
 
-<img src=""/> https://media.istockphoto.com/id/973474408/photo/ibm-corporate-building-and-logo.jpg?s=1024x1024&w=is&k=20&c=SK21XyCh3PQoe3fZW9J87UZehkP_hsKV8YSysro88k8="/> 
- 
+<img src="https://media.istockphoto.com/id/973474408/photo/ibm-corporate-building-and-logo.jpg?s=1024x1024&w=is&k=20&c=SK21XyCh3PQoe3fZW9J87UZehkP_hsKV8YSysro88k8=" alt="Header"/>
 # Python-Project-for-Data-Science---IBM-Data-Science
 
 
